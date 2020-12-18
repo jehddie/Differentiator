@@ -1,2 +1,3 @@
 # Android-Differentiator-App
-Android app that differentiates single variable equations, built with Kotlin
+An android app that differentiates single-variable polynomials
+Built with Kotlin
