@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_main">#2e9976</color>
+    <color name="teal_light">#FF03DAC5</color>
+    <color name="teal_dark">#FF018786</color>
+    <color name="peach">#FF9955</color>
+    <color name="orange">#FFA500</color>
+    <color name="orange_dark">#FF8C00</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
